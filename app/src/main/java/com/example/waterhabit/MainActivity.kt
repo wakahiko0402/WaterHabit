@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     /*
     commit test
     k020c1230
+    k020c1393
     */
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
