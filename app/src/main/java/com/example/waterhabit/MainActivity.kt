@@ -15,6 +15,10 @@ import com.example.waterhabit.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    /*
+    commit test
+    k020c1230
+    */
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
